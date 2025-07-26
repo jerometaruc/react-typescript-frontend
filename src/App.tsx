@@ -1,4 +1,4 @@
-import { Data } from "./data/todos"
+import { Data } from "./data/Todos"
 
 function App() {
   return (
